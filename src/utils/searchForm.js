@@ -68,7 +68,7 @@ dialogList: [
   },
   {
     name: '企业性质333',
-    id: '12',
+    id: '13',
     type: 'Single',
     selectList: ['大公募','小公募','私募'],
   },
